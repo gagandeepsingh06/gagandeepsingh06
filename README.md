@@ -1,6 +1,22 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on:<br>Building AI/ML projects like real-time pothole detection, gesture-controlled systems. <br><br>🤝 I’m looking to collaborate on:<br>AI/ML research projects, computer vision tools, and end-to-end full-stack ML applications.<br><br>🧠 I’m currently learning:<br>Advanced Machine Learning, Deep Learning architectures, Cloud (OCI / AWS), and scalable backend systems (FastAPI, Flask).<br><br>💡 I’m looking for help with:<br>Improving real-time ML pipeline optimization, deploying models efficiently, and integrating ML with robust frontend dashboards.<br><br>💬 Ask me about:<br>Python, Machine Learning, Deep Learning, Computer Vision, YOLO, MediaPipe, API development, and ML project structuring.<br><br>⚡ Fun fact:<br>I love turning everyday problems into AI-powered tools  from controlling slides with hand gestures to detecting potholes on the road!
+🔭 I’m currently working on:<br>
+AI/ML projects such as real-time pothole detection and gesture-controlled systems.<br><br>
+
+🤝 I’m looking to collaborate on:<br>
+AI/ML research, computer vision applications, and full-stack ML systems.<br><br>
+
+🧠 I’m currently learning:<br>
+Advanced Machine Learning, Deep Learning architectures, Cloud (OCI / AWS), and scalable backends (FastAPI, Flask).<br><br>
+
+💡 I’m looking for help with:<br>
+Optimizing real-time ML pipelines, efficient model deployment, and ML-powered dashboards.<br><br>
+
+💬 Ask me about:<br>
+Python, Machine Learning, Deep Learning, Computer Vision, YOLO, MediaPipe, APIs, and ML project architecture.<br><br>
+
+⚡ Fun fact:<br>
+I enjoy turning everyday problems into AI solutions—from gesture-controlled slides to pothole detection.
 
 
 ## 🌐 Socials:
